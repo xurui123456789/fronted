@@ -7,7 +7,7 @@
       <el-table-column prop="institute" label="所属学院" width="120"></el-table-column>
       <el-table-column prop="major" label="所属专业" width="200"></el-table-column>
       <el-table-column prop="grade" label="年级" width="100"></el-table-column>
-      <el-table-column prop="examDate" label="考试日期" width="120"></el-table-column>
+      <el-table-column prop="examDate" label="考试的日期" width="120"></el-table-column>
       <el-table-column prop="totalTime" label="持续时间" width="120"></el-table-column>
       <el-table-column prop="totalScore" label="总分" width="120"></el-table-column>
       <el-table-column prop="type" label="试卷类型" width="120"></el-table-column>
